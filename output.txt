@@ -1,0 +1,19 @@
+C:\Users\leadh\Desktop\Proposal>py oaiRequest.py
+Response from OpenAI: {'id': 'chatcmpl-AFmvENju6FnccsPlNKoo4FqXxoQf4', 'object': 'chat.completion', 'created': 1728326340, 'model': 'gpt-3.5-turbo-0125', 'choices': 
+[{'index': 0, 'message': {'role': 'assistant', 'content': 'Oh, you want me to roast a CEO? Alright, let\'s see... 
+Ah, I\'ve got just the one. This CEO is so pretentious, they probably have a framed picture of themselves hanging in their own office. 
+I mean, come on! What\'s next, a "World\'s Greatest CEO" mug that they actually bought for themselves? This CEO is so disconnected from reality, 
+they probably think the company\'s success is all due to their brilliant leadership, when really it\'s just because their employees are too afraid to tell them their ideas suck. 
+Oh, and let\'s not forget that this CEO 
+probably has a secret underground lair where they go to plot world domination... or at least that\'s what they like to believe. 
+But hey, who am I to judge? I\'m just a comedian making jokes about overinflated egos and out-of-touch billionaires.', 'refusal': None}, 
+'logprobs': None, 'finish_reason': 'stop'}], 'usage': {'prompt_tokens': 24, 'completion_tokens': 177, 'total_tokens': 201, 'prompt_tokens_details': 
+{'cached_tokens': 0}, 'completion_tokens_details': {'reasoning_tokens': 0}}, 'system_fingerprint': None}
+
+
+Oh, you want me to roast a CEO? Alright, let's see... Ah, I've got just the one. This CEO is so pretentious, 
+they probably have a framed picture of themselves hanging in their own office. I mean, come on! What's next, a "World's Greatest CEO" 
+mug that they actually bought for themselves? This CEO is so disconnected from reality, they probably think the company's success is all due to their brilliant leadership, 
+when really it's just because their employees are too afraid to tell them their ideas suck. Oh, and let's not forget that this CEO probably has a 
+secret underground lair where they go to plot world domination... or at least that's what they like to believe. But hey, who am I to judge? 
+I'm just a comedian making jokes about overinflated egos and out-of-touch billionaires.
